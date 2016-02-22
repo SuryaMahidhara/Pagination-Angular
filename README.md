@@ -2,6 +2,6 @@
 
 Follow the steps to make this application work.
 
--- install npm, node and bower in your system.
--- Run npm install
--- Run bower install --allow-root
+1. install npm, node and bower in your system.
+2. Run npm install
+3. Run bower install --allow-root
